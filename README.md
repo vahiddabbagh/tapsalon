@@ -1,5 +1,5 @@
 
-## About This Project (Tapsalon)
+## About this project (Tapsalon)
 
 This project is written with Laravel and Vuejs. It is an API and dashboard for a mobile app that introducing sport halls, gyms and other sport related facilities to those who install Tapsalon android app. 
 
@@ -14,4 +14,5 @@ Featres:
 - Give a statistics about number of sport facilities and users. 
 
 This repo is created as showcase. 
+
 
